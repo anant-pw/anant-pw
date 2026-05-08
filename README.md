@@ -1,38 +1,38 @@
-<h2 align="center">Anant Jain — QA Engineer → AI/SDET</h2>
+<h2 align="center">Anant Jain — Senior QA Engineer | SDET | AI-Augmented Testing</h2>
 
 <p align="center">
-  10+ years in QA · Building autonomous testing systems with LLMs<br/>
-  Playwright · Python · LangChain · Groq · SambaNova · FastAPI · Allure
+  14+ years in QA & Test Automation · Playwright · Python · Java · Selenium · LangChain · Groq
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anant-jain-40760719/">LinkedIn</a> ·
-  <a href="mailto:anantjain99@gmail.com">Email</a>
-</p>
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-jain-40760719/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anantjain99@gmail.com)
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anant-jain-40760719/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anantjain99@gmail.com) 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anant-pw&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anant-pw&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anant-pw&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anant-pw&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+## About Me
 
-## What I Build
+Senior QA Engineer and SDET with 14+ years of experience across enterprise software, digital transformation, and AI-augmented testing. Strong foundation in both manual and automated testing — UI, API, performance, and exploratory.
 
-I bridge QA engineering with AI — replacing brittle, hand-scripted test flows with LLM-driven autonomous frameworks.
+Over the past year, I've been building applied AI projects that extend traditional QA with LLM-driven capabilities: autonomous test generation, self-healing selectors, multi-agent execution, and AI-assisted triage. These are real, runnable frameworks — not tutorials.
 
-**Current focus:** AI-augmented testing, self-healing automation, multi-agent test orchestration.
+Open to: **SDET**, **QA Engineer**, **QA Lead**, **AI Engineer (QA focus)** roles.
 
 ---
 
@@ -69,22 +69,27 @@ Instead of hardcoded selectors and flows, the framework feeds live DOM state to 
 
 ---
 
-## Tech Stack
+## Tech at a Glance
 
 | Area | Tools |
 |---|---|
-| **Test Automation** | Playwright, pytest, pytest-xdist, Allure |
+| **Test Automation** | Playwright, Selenium, pytest, pytest-xdist, TestNG, Allure |
 | **AI / LLM** | LangChain (LCEL), Groq, SambaNova, Ollama, sentence-transformers |
-| **Backend** | FastAPI, SQLite, Python 3.11 |
+| **API Testing** | FastAPI, REST Assured, Swagger, Postman |
 | **CI/CD** | GitHub Actions, Jenkins |
-| **Observability** | Allure, Streamlit dashboards, Plotly |
+| **Languages** | Python, Java |
+| **Tracking & Reporting** | Jira, Allure, Streamlit, Plotly |
 
 ---
 
-## Background
+## 📊 GitHub Stats
 
-Principal QA Engineer with 10+ years across enterprise software and digital transformation projects. Over the last year, shifted focus to applied AI engineering — building real, runnable frameworks that use LLMs as QA agents, not just copilots.
+![](https://github-readme-stats.shion.dev/api?username=anant-pw&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
-Open to: **AI Engineer**, **SDET**, **QA Lead** roles.
+![](https://streak-stats.demolab.com/?user=anant-pw&theme=default&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anant-pw&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+[![](https://komarev.com/ghpvc/?username=anant-pw&color=0e75b6&style=flat)](https://github.com/anant-pw)
