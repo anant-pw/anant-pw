@@ -1,4 +1,4 @@
-<h2 align="center">Anant Jain — Senior QA Engineer | SDET | AI-Augmented Testing</h2>
+<h2 align="center">Anant Jain — Principal QA Engineer | SDET | AI-Augmented Testing</h2>
 
 <p align="center">
   14+ years in QA & Test Automation · Playwright · Python · Java · Selenium · LangChain · Groq
